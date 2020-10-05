@@ -8,17 +8,17 @@ the goal is to find the shortest solution to a given tile puzzle problem within 
 
 Applied a Heuristic-function in several algorithms to improve the outcome and open-list/closed-list to avoid duplicates
 
-##Examples: 
+## Examples: 
 
-###input: 
+### input: 
 
 ![](https://i.imgur.com/wEgaaII.png)
 
-###output: 
+### output: 
 
 ![](https://i.imgur.com/lfJwP1B.png)
 
-###open-list content by each step:
+### open-list content by each step:
 
 ![](https://i.imgur.com/CFqJxqP.png)
 
